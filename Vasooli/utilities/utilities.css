@@ -1,0 +1,21 @@
+/* Moirai One */
+@import url("https://fonts.googleapis.com/css2?family=Moirai+One&display=swap");
+
+/* Indie Flower */
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* Zeyada */
+@import url("https://fonts.googleapis.com/css2?family=Zeyada&display=swap");
+
+/* Montserrat */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+:root {
+  --font1: "Moirai One", cursive;
+  --font2: "Indie Flower", cursive;
+  --font3: "Poppins", sans-serif;
+  --font4: "Zeyada", cursive;
+  --font5: "Montserrat", sans-serif;
+}
